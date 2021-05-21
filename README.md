@@ -3,7 +3,7 @@
 - Project for CS course: CS61A (The Structure and Interpretation of Computer Programs)
 - Interpreter for a subset of the Scheme language
 
-Link: https://inst.eecs.berkeley.edu/~cs61a/sp17/proj/hog/
+Link: https://inst.eecs.berkeley.edu/~cs61a/sp17/proj/scheme/
 
 > Main Files
 > - scheme.py: the Scheme evaluator
